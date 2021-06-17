@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/rufnote/static/js/main.072445b1.chunk.js",
+    "main.js.map": "/rufnote/static/js/main.072445b1.chunk.js.map",
+    "runtime-main.js": "/rufnote/static/js/runtime-main.9b628422.js",
+    "runtime-main.js.map": "/rufnote/static/js/runtime-main.9b628422.js.map",
+    "static/js/2.48552171.chunk.js": "/rufnote/static/js/2.48552171.chunk.js",
+    "static/js/2.48552171.chunk.js.map": "/rufnote/static/js/2.48552171.chunk.js.map",
+    "index.html": "/rufnote/index.html",
+    "precache-manifest.b3a14181acd8231060a3bbc08da62de0.js": "/rufnote/precache-manifest.b3a14181acd8231060a3bbc08da62de0.js",
+    "service-worker.js": "/rufnote/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b628422.js",
+    "static/js/2.48552171.chunk.js",
+    "static/js/main.072445b1.chunk.js"
+  ]
+}
