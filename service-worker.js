@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rufnote/precache-manifest.b3a14181acd8231060a3bbc08da62de0.js"
+  "/rufnote/precache-manifest.1bc4b8fecd9405bf5cc83d472eae25d0.js"
 );
 
 self.addEventListener('message', (event) => {
