@@ -10,3 +10,6 @@ View 1
 View 2
 ![image](https://user-images.githubusercontent.com/84835379/140075292-f8fc7425-69ec-43ae-9bee-6deb62987f80.png)
 
+View 3
+![image](https://user-images.githubusercontent.com/84835379/140076313-99d21779-3da5-441c-898d-6a1944e6d17c.png)
+
